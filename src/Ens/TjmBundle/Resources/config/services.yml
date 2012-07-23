@@ -1,0 +1,7 @@
+parameters:
+#    ens_tjm.example.class: Ens\TjmBundle\Example
+
+services:
+#    ens_tjm.example:
+#        class: %ens_tjm.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]

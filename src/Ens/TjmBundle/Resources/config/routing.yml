@@ -1,0 +1,3 @@
+EnsTjmBundle_homepage:
+    pattern:  /hello/{name}
+    defaults: { _controller: EnsTjmBundle:Default:index }
